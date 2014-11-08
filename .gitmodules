@@ -1,4 +1,4 @@
 [submodule "processor/src/main/resources/com/brobston/indelible/processor/pre/antlr"]
-	path = processor/src/main/antlr4
+	path = processor/src/main/antlr4/com/brobston/indelible/processor/pre/antlr
 	url = https://github.com/abrobston/grammars-v4.git
 	branch = java8-only
